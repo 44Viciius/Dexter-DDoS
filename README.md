@@ -14,7 +14,6 @@ Tener pip instalado y actualizado
 📦 Instalación de dependencias
 Clona este repositorio y entra en la carpeta del proyecto:
 cd DexterDDoS
-pip install -r requirements.txt
 
 🔧 Uso
 Ejecuta el script con los siguientes parámetros:
